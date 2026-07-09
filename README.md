@@ -1,4 +1,6 @@
 # MyfirstcodeinGit
-First code test 
+First code Test 
 <br>
-written by Swarup Dhande
+written by Swarup G Dhande 
+<br>
+Date 9 july 
